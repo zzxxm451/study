@@ -13,3 +13,6 @@ def guess_number():
             break
 
 guess_number()
+```
+编写一个程序，让用户猜一个随机生成的数字，直到猜中为止。
+```
